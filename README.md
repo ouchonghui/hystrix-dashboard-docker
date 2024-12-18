@@ -1,6 +1,6 @@
 # Hystrix Dashboard
 
-Hystrix Dashboard的Docker镜像构建源码
+Hystrix Dashboard的Docker镜像构建源码，替换logo图url
 
 ## 快速开始
 
